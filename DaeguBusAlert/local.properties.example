@@ -1,0 +1,2 @@
+# 이 파일을 local.properties 로 복사하고 sdk.dir 와 키를 채우세요 (Android Studio가 sdk.dir 은 자동 생성)
+DATA_GO_KR_KEY=공공데이터포털_일반인증키(Decoding)
